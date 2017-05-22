@@ -1,2 +1,2 @@
 # AI-Routines
-AI Routins for LibgGDX Card Game
+AI Routines for LibgGDX Card Game
