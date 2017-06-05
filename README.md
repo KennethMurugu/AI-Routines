@@ -5,7 +5,7 @@ This is my first implementation of my LibGdx game's AI.
 The AI class(not included) executes the routines when in turn in a different thread; this prevents hanging on the render thread when the computations get a bit more complex in future versions.
 
 ## Classes
-###Routine
+### Routine
 An abstract class defining base Routine functions(think of it as a brain).
 
 ### RoutineFactory
