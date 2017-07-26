@@ -18,5 +18,5 @@ An array of all valid cards is obtained by checking each card in hand using the 
 The AI uses a randomizer to pick the appropriate card to play
 
 ## Plans for the future
--Each card is associated with a real number that specifies its value(*importance*) based on card type. In future the AI should pick a combination of cards, as opposed to only a single card, and play a particular combination based on the combined value of the cards in the combination.
--Value of a combination should also be weighted according to difficulty chosen.
+- Each card is associated with a real number that specifies its value(*importance*) based on card type. In future the AI should pick a combination of cards, as opposed to only a single card, and play a particular combination based on the combined value of the cards in the combination.
+- Value of a combination should also be weighted according to difficulty chosen.
